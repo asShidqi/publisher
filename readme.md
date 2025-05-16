@@ -1,0 +1,1 @@
+a. jumlah data yang dikirim oleh program 
